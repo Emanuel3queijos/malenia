@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "defd34ed58365ea3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ecd18bfb686d166",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d6e317ba17e4fb6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "175947f45a6aef5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9de005ac7f85f8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7edf2c602d06f69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a773c17ec409c8df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "09bf6ee017ac3027",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402.5
+  },
+  "right": {
+    "id": "25617f7b9b0847b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5431ca60108e32eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30ad8afd6416a570",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📘Conceitos de IA, Análise de Dados e Big Data Aplicados ao Desenvolvimento.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 📘Conceitos de IA, Análise de Dados e Big Data Aplicados ao Desenvolvimento"
+            }
+          },
+          {
+            "id": "72bcac92ac3944d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📘Conceitos de IA, Análise de Dados e Big Data Aplicados ao Desenvolvimento.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 📘Conceitos de IA, Análise de Dados e Big Data Aplicados ao Desenvolvimento"
+            }
+          },
+          {
+            "id": "07287a15826453b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "db6b499889617dbf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9f5af68fcab8bc16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📘Conceitos de IA, Análise de Dados e Big Data Aplicados ao Desenvolvimento.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 📘Conceitos de IA, Análise de Dados e Big Data Aplicados ao Desenvolvimento"
+            }
+          },
+          {
+            "id": "7cccc70bb36ff99d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "5d6e317ba17e4fb6",
+  "lastOpenFiles": [
+    "README.md",
+    "LICENSE",
+    "Dataprev/Modulos/Modulo A - Desenvolvimento de Sistemas.md",
+    "📘Conceitos de IA, Análise de Dados e Big Data Aplicados ao Desenvolvimento.md",
+    "📘Classes, Objetos, Herança, Polimorfismo e Encapsulamento.md",
+    "video url.md",
+    "Modulos/Modulo A - Desenvolvimento de Sistemas.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "Questões/Untitled.md",
+    "Modulos/Modulo D - Banco de Dados.md",
+    "Modulos/Modulo C - Inteligência de Negócios (BI).md",
+    "Modulos/Modulo B - Segurança da Informação.md",
+    "Modulos/Modulo E - Gestão e Governança de TI.md",
+    "Questões",
+    "Documentos/questões especificas.pdf",
+    "Modulos/Modulo F Conhecimentos Gerais.md",
+    "Analista de TI Desenvolvimento de Software.md",
+    "Documentos/08_ATI - DESENVOLVIMENTO DE SOFTWARE.pdf",
+    "Documentos/edital dataprev 2026.pdf",
+    "Documentos",
+    "Modulos",
+    "Untitled.md",
+    "copilot/copilot-conversations/API_Connection_Error@20260717_163851.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts",
+    "copilot"
+  ]
+}
