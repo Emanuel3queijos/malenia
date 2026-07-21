@@ -15,9 +15,9 @@
               "state": {
                 "file": "Lingua portuguesa/Morfologia/Morfologia.canvas",
                 "viewState": {
-                  "x": 707.9999389648438,
-                  "y": -258.66664123535156,
-                  "zoom": 0
+                  "x": 1276.1242049263547,
+                  "y": -273.7647277140057,
+                  "zoom": -1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -184,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

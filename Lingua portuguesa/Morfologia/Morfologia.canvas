@@ -1,9 +1,17 @@
 {
 	"nodes":[
-		{"id":"9dd2d3c747a588ad","x":-360,"y":-160,"width":420,"height":180,"color":"6","type":"file","file":"Lingua portuguesa/Morfologia/morfologia.md"},
-		{"id":"48c91b20dfd284bc","x":300,"y":-409,"width":540,"height":289,"color":"1","type":"file","file":"Lingua portuguesa/Morfologia/Substantivo.md"}
+		{"id":"48c91b20dfd284bc","x":300,"y":-409,"width":540,"height":289,"color":"1","type":"file","file":"Lingua portuguesa/Morfologia/Substantivo.md"},
+		{"id":"fb37f80651c4f788","x":973,"y":-160,"width":946,"height":319,"color":"2","type":"file","file":"Lingua portuguesa/Morfologia/Substantivo.md"},
+		{"id":"d7482c03fae1b819","x":880,"y":200,"width":687,"height":240,"color":"2","type":"file","file":"Lingua portuguesa/Morfologia/Substantivo.md"},
+		{"id":"662871374409f91d","x":840,"y":-760,"width":860,"height":200,"color":"2","type":"file","file":"Lingua portuguesa/Morfologia/Substantivo.md"},
+		{"id":"9853b6d63fbab4ba","x":973,"y":-480,"width":700,"height":260,"color":"2","type":"file","file":"Lingua portuguesa/Morfologia/Substantivo.md"},
+		{"id":"9dd2d3c747a588ad","x":-480,"y":840,"width":420,"height":180,"color":"6","type":"file","file":"Lingua portuguesa/Morfologia/morfologia.md"}
 	],
 	"edges":[
-		{"id":"efa97ee0ae33621a","fromNode":"9dd2d3c747a588ad","fromSide":"right","toNode":"48c91b20dfd284bc","toSide":"left","color":"1"}
+		{"id":"efa97ee0ae33621a","fromNode":"9dd2d3c747a588ad","fromSide":"right","toNode":"48c91b20dfd284bc","toSide":"left","color":"1"},
+		{"id":"8944aa4f2b068dd5","fromNode":"48c91b20dfd284bc","fromSide":"right","toNode":"662871374409f91d","toSide":"left","color":"2"},
+		{"id":"89ad3ece02935bd8","fromNode":"48c91b20dfd284bc","fromSide":"right","toNode":"9853b6d63fbab4ba","toSide":"left","color":"2"},
+		{"id":"3460ebbc18dd7822","fromNode":"48c91b20dfd284bc","fromSide":"right","toNode":"fb37f80651c4f788","toSide":"left","color":"2"},
+		{"id":"00c8fe0e4be12cdf","fromNode":"48c91b20dfd284bc","fromSide":"right","toNode":"d7482c03fae1b819","toSide":"left","color":"2"}
 	]
 }
