@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"9dd2d3c747a588ad","x":-360,"y":-160,"width":420,"height":180,"color":"6","type":"file","file":"Lingua portuguesa/Morfologia/morfologia.md"},
-		{"id":"48c91b20dfd284bc","x":300,"y":-409,"width":540,"height":329,"color":"1","type":"file","file":"Lingua portuguesa/Morfologia/Substantivo.md"}
+		{"id":"48c91b20dfd284bc","x":300,"y":-409,"width":540,"height":289,"color":"1","type":"file","file":"Lingua portuguesa/Morfologia/Substantivo.md"}
 	],
 	"edges":[
 		{"id":"efa97ee0ae33621a","fromNode":"9dd2d3c747a588ad","fromSide":"right","toNode":"48c91b20dfd284bc","toSide":"left","color":"1"}
