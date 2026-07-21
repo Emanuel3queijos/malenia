@@ -1,11 +1,9 @@
 {
 	"nodes":[
-		{"id":"9dd2d3c747a588ad","x":-260,"y":-160,"width":400,"height":180,"color":"6","type":"file","file":"Lingua portuguesa/Morfologia/morfologia.md"},
-		{"id":"48c91b20dfd284bc","x":300,"y":-409,"width":400,"height":249,"color":"1","type":"file","file":"Lingua portuguesa/Morfologia/Substantivo.md"},
-		{"id":"2650701e56e35bda","x":786,"y":-471,"width":250,"height":60,"type":"text","text":""}
+		{"id":"9dd2d3c747a588ad","x":-360,"y":-160,"width":420,"height":180,"color":"6","type":"file","file":"Lingua portuguesa/Morfologia/morfologia.md"},
+		{"id":"48c91b20dfd284bc","x":300,"y":-409,"width":540,"height":329,"color":"1","type":"file","file":"Lingua portuguesa/Morfologia/Substantivo.md"}
 	],
 	"edges":[
-		{"id":"efa97ee0ae33621a","fromNode":"9dd2d3c747a588ad","fromSide":"right","toNode":"48c91b20dfd284bc","toSide":"left"},
-		{"id":"b1154a83c819fd23","fromNode":"48c91b20dfd284bc","fromSide":"right","toNode":"2650701e56e35bda","toSide":"left"}
+		{"id":"efa97ee0ae33621a","fromNode":"9dd2d3c747a588ad","fromSide":"right","toNode":"48c91b20dfd284bc","toSide":"left","color":"1"}
 	]
 }

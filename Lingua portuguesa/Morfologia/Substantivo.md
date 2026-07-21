@@ -2,3 +2,4 @@
 
 >Podem ser flexionados em gênero(masculino/feminino), numero(singular/plural) e grau(aumentativo e diminutivo)
 
+> 
