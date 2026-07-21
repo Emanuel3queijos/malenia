@@ -1,2 +1,0 @@
-classes de palavarswewwer
-tygytyuytuty

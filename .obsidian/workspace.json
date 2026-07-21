@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2c63d9bf040129b0",
+        "id": "b9d57982d59a88ef",
         "type": "tabs",
         "children": [
           {
-            "id": "a6a666de1cc97031",
+            "id": "fb777028fbe3a2db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "especificas data/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Lingua portuguesa/Morfologia/Morfologia.canvas",
+                "viewState": {
+                  "x": 704.666748046875,
+                  "y": -335.33335876464844,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-layout-dashboard",
+              "title": "Morfologia"
             }
           }
         ]
@@ -78,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "right": {
     "id": "25617f7b9b0847b7",
@@ -195,9 +199,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a6a666de1cc97031",
+  "active": "fb777028fbe3a2db",
   "lastOpenFiles": [
-    "Lingua portuguesa/Morfologia/mestre.md",
+    "Lingua portuguesa/Morfologia/morfologia.md",
+    "Lingua portuguesa/Morfologia/Morfologia.canvas",
+    "Lingua portuguesa/Morfologia/Substantivo.md",
+    "Lingua portuguesa/Morfologia/Untitled.md",
+    "Untitled.md",
+    "Substantivo.md",
+    "especificas data/Untitled.md",
     "especificas data/Analista de TI Desenvolvimento de Software.md",
     "especificas data/video url.md",
     "README.md",
@@ -228,12 +238,6 @@
     "Lingua portuguesa",
     "01 - Interpretação e Compreensão de Textos.md",
     "Documentos/gramatica_comentada_com_interpretacao-2017.pdf",
-    "Untitled",
-    "Portugues/Untitled.md",
-    "especificas data/Modulos/Modulo A - Desenvolvimento de Sistemas.md",
-    "📘Conceitos de IA, Análise de Dados e Big Data Aplicados ao Desenvolvimento.md",
-    "📘Classes, Objetos, Herança, Polimorfismo e Encapsulamento.md",
-    "video url.md",
-    "Modulos/Modulo A - Desenvolvimento de Sistemas.md"
+    "Untitled"
   ]
 }
