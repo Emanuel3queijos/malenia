@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lingua portuguesa/mestre.md",
+                "file": "especificas data/Analista de TI Desenvolvimento de Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mestre"
+              "title": "Analista de TI Desenvolvimento de Software"
             }
           }
         ]
@@ -171,8 +171,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +195,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d7edf2c602d06f69",
+  "active": "a6a666de1cc97031",
   "lastOpenFiles": [
-    "Lingua portuguesa/Morfologia",
+    "especificas data/video url.md",
     "README.md",
+    "Raciocínio Lógico-Matemático/Lógica Formal.md",
+    "especificas data/📘Conceitos de IA, Análise de Dados e Big Data Aplicados ao Desenvolvimento.md",
+    "Lingua portuguesa/Morfologia/mestre.md",
+    "Lingua portuguesa/Morfologia/Morfologia.md",
     "Lingua portuguesa/mestre.md",
+    "Lingua portuguesa/Morfologia",
     "Lingua portuguesa.md",
     "Documentos/edital dataprev 2026.pdf",
     "Lingua portuguesa/Fonética/Fonetica Mapa mental.canvas",
@@ -216,7 +220,6 @@
     "Documentos/Não confirmado 595202.crdownload",
     "Documentos/08_ATI - DESENVOLVIMENTO DE SOFTWARE.pdf",
     "Lingua portuguesa/Compreensão Textual.md",
-    "Raciocínio Lógico-Matemático/Lógica Formal.md",
     "Lingua portuguesa/Sintaxe.md",
     "Lingua portuguesa/Morfologia.md",
     "Modulo 2/Untitled.md",
@@ -226,15 +229,11 @@
     "Documentos/gramatica_comentada_com_interpretacao-2017.pdf",
     "Untitled",
     "Portugues/Untitled.md",
-    "Portugues/documentos/Não confirmado 587672.crdownload",
     "especificas data/Modulos/Modulo A - Desenvolvimento de Sistemas.md",
     "📘Conceitos de IA, Análise de Dados e Big Data Aplicados ao Desenvolvimento.md",
     "📘Classes, Objetos, Herança, Polimorfismo e Encapsulamento.md",
     "video url.md",
     "Modulos/Modulo A - Desenvolvimento de Sistemas.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "Questões/Untitled.md",
-    "Modulos/Modulo D - Banco de Dados.md",
-    "Modulos/Modulo C - Inteligência de Negócios (BI).md"
+    "copilot/copilot-custom-prompts/Clip Web Page.md"
   ]
 }
