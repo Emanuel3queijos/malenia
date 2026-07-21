@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"76dfe193ce342659","type":"text","text":"Fonética","x":-160,"y":-71,"width":122,"height":60,"color":"1"},
+		{"id":"c86614622105169e","type":"text","text":"### Uma letra pode representar fonemas diferentes\n\nA letra **X** pode ter sons diferentes:\n\n- **xícara** → /ʃ/\n- **exame** → /z/\n- **táxi** → /ks/\n- **próximo** → /s/ ","x":949,"y":-549,"width":347,"height":238,"color":"3"},
+		{"id":"556d2239ccc15ecf","type":"text","text":"### Trocar apenas **um fonema** já cria outra palavra:\n\n- **pato** → **gato**\n    - /p/ → /g/\n- **faca** → **vaca**\n    - /f/ → /v/\n- **mala** → **fala**\n    - /m/ → /f/\n- **casa** → **capa**\n    - /z/ → /p/","x":949,"y":-900,"width":347,"height":333,"color":"3"},
+		{"id":"7b46ab8cb4a6e54e","type":"text","text":"### Um fonema pode ser representado por letras diferentes\n\nO som **/s/** pode aparecer como:\n\n- **s**apo\n- **c**idade\n- **ç**aça\n- pa**ss**o\n- na**sc**er","x":949,"y":-280,"width":347,"height":362,"color":"3"},
+		{"id":"0957a79caf88f661","type":"file","file":"Lingua portuguesa/Fonética/fonema.md","x":88,"y":-570,"width":720,"height":280,"color":"2"},
+		{"id":"76778b6773a5b6e7","type":"file","file":"Lingua portuguesa/Fonética/Digrafo.md","x":88,"y":-231,"width":632,"height":291,"color":"2"},
+		{"id":"9a5a954d8a900359","type":"file","file":"Lingua portuguesa/Fonética/Encontro consonantal.md","x":88,"y":100,"width":632,"height":200,"color":"2"},
+		{"id":"afa141318dcf3832","type":"file","file":"Lingua portuguesa/Fonética/Encontro Vocalico.md","x":100,"y":340,"width":512,"height":80,"color":"2"},
+		{"id":"15e0bc9a6cd4052a","x":940,"y":460,"width":620,"height":240,"color":"3","type":"file","file":"Lingua portuguesa/Fonética/Encontro Vocalico.md"},
+		{"id":"4b50c9b24524d987","x":940,"y":760,"width":655,"height":240,"color":"3","type":"file","file":"Lingua portuguesa/Fonética/Encontro Vocalico.md"},
+		{"id":"5a7312f4edd59d65","x":940,"y":120,"width":560,"height":300,"color":"3","type":"file","file":"Lingua portuguesa/Fonética/Encontro Vocalico.md"}
+	],
+	"edges":[
+		{"id":"3feddc80e8d3e04c","fromNode":"76dfe193ce342659","fromSide":"right","toNode":"0957a79caf88f661","toSide":"left","color":"2"},
+		{"id":"54cec7e2409106b1","fromNode":"76dfe193ce342659","fromSide":"right","toNode":"76778b6773a5b6e7","toSide":"left","color":"2"},
+		{"id":"3966064f921a8d3e","fromNode":"76dfe193ce342659","fromSide":"right","toNode":"9a5a954d8a900359","toSide":"left","color":"2"},
+		{"id":"4e957faaf5cf030d","fromNode":"0957a79caf88f661","fromSide":"right","toNode":"556d2239ccc15ecf","toSide":"left","color":"3"},
+		{"id":"041887a3b3d9e657","fromNode":"0957a79caf88f661","fromSide":"right","toNode":"c86614622105169e","toSide":"left","color":"3"},
+		{"id":"0ebe16c20783ae95","fromNode":"0957a79caf88f661","fromSide":"right","toNode":"7b46ab8cb4a6e54e","toSide":"left","color":"3"},
+		{"id":"fe703579856e8baf","fromNode":"76dfe193ce342659","fromSide":"right","toNode":"afa141318dcf3832","toSide":"left","color":"2"},
+		{"id":"34183bdc78ef9a11","fromNode":"afa141318dcf3832","fromSide":"right","toNode":"5a7312f4edd59d65","toSide":"left","color":"3"},
+		{"id":"e789c8364f151c8f","fromNode":"afa141318dcf3832","fromSide":"right","toNode":"15e0bc9a6cd4052a","toSide":"left","color":"3"},
+		{"id":"30c9ce481f3162a2","fromNode":"afa141318dcf3832","fromSide":"right","toNode":"4b50c9b24524d987","toSide":"left","color":"3"}
+	]
+}
