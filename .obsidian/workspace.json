@@ -11,12 +11,14 @@
             "id": "fb777028fbe3a2db",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documentos/edital dataprev 2026.pdf"
+                "file": "LGPD/LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "edital dataprev 2026"
+              "icon": "lucide-file",
+              "title": "LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS"
             }
           }
         ]
@@ -194,8 +196,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d7edf2c602d06f69",
+  "active": "fb777028fbe3a2db",
   "lastOpenFiles": [
+    "Documentos/edital dataprev 2026.pdf",
+    "LGPD/LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS.md",
     "LGPD",
     "Lingua portuguesa/Morfologia/Morfologia.canvas",
     "Lingua portuguesa/Morfologia/Artigo.md",
@@ -214,7 +218,6 @@
     "Lingua portuguesa/mestre.md",
     "Lingua portuguesa/Morfologia",
     "Lingua portuguesa.md",
-    "Documentos/edital dataprev 2026.pdf",
     "Lingua portuguesa/Fonética/Fonetica Mapa mental.canvas",
     "Lingua portuguesa/Fonética/Encontro Vocalico.md",
     "Lingua portuguesa/Fonética/Encontro consonantal.md",
@@ -230,7 +233,6 @@
     "Lingua portuguesa/Compreensão Textual.md",
     "Lingua portuguesa/Sintaxe.md",
     "Lingua portuguesa/Morfologia.md",
-    "Modulo 2/Untitled.md",
     "Raciocínio Lógico-Matemático",
     "Lingua portuguesa",
     "Documentos/gramatica_comentada_com_interpretacao-2017.pdf"
