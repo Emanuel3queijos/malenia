@@ -1,48 +1,65 @@
+# Lei 12.965/2014 (Foco FGV)
 
-### (Lei 12.965/2014)
+> O MCI estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil. É a "constituição da internet" — e serve de ponte direta para a LGPD, que a FGV adora explorar em conjunto.
 
-#### 1. SEUS DIREITOS E GARANTIAS (Cap. II, Seção I)
+---
 
-O MCI diz que o acesso à internet é essencial para a cidadania. A FGV ama cobrar as seguintes garantias do Art. 7º:
+## 1. Seus Direitos e Garantias (Cap. II, Seção I — Art. 7º)
 
-- ✂️ **Corte de Internet:** A operadora (Vivo, Claro, etc.) **NÃO** pode cortar sua internet por você ter atingido a franquia de dados. O **único** motivo legal para suspender a sua conexão é a **falta de pagamento**.
-    
-- 🔒 **Inviolabilidade:** Suas comunicações são invioláveis e sigilosas (salvo ordem judicial).
-    
-- 🗑️ **Direito ao Esquecimento (O gancho pra LGPD):** Ao encerrar a sua conta em um site/app, você tem o direito de exigir a **exclusão definitiva** dos seus dados pessoais que foram fornecidos a eles.
-    
+A lei diz que o acesso à internet é essencial ao exercício da cidadania (Art. 7º, _caput_). A FGV cobra pesado os incisos deste artigo. Os mais recorrentes:
 
-#### 2. A PEGADINHA DOS PRAZOS (Cap. III, Seção I) - _O terror das provas de TI!_
+- **✂️ Não suspensão da conexão (inciso IV):** a operadora (Vivo, Claro, etc.) **NÃO** pode cortar sua internet por você ter estourado a franquia de dados. O único motivo legal para suspender a conexão é o **débito diretamente decorrente de sua utilização** — ou seja, falta de pagamento.
+- **🔒 Inviolabilidade e sigilo (incisos I a III):** invioláveis são a intimidade e a vida privada, e também o **fluxo** das comunicações pela internet e as comunicações privadas armazenadas, salvo por **ordem judicial**.
+- **🗑️ Exclusão definitiva de dados (inciso XIII):** ao término da relação com um site/app, você pode exigir a **exclusão definitiva dos dados pessoais** que forneceu, salvo as hipóteses de guarda obrigatória previstas na própria lei (os prazos do tópico 2 abaixo).
 
-A lei obriga as empresas a guardarem o seu "rastro" (seu IP, data e hora) para caso a polícia precise investigar um crime. Mas existem **duas regras diferentes**, e a FGV vai tentar inverter isso na sua prova:
+> ⚠️ **Cuidado com pegadinha conceitual:** o inciso XIII do Art. 7º **não é tecnicamente o "direito ao esquecimento"** (que é uma construção jurisprudencial mais ampla, ligada a fatos passados e à honra/imagem). É o **direito à exclusão dos dados pessoais fornecidos**, mediante requerimento, ao fim da relação com a aplicação. A FGV gosta de trocar esses dois conceitos em assertivas para confundir o candidato — fique de olho no enunciado exato.
 
-- 🌐 **Provedor de CONEXÃO (Quem te liga à rede - ex: Claro, Vivo):**
-    
-    - Eles guardam os _Registros de Conexão_.
-        
-    - **Prazo Obrigatório:** **1 ANO** (sob sigilo).
-        
-- 📱 **Provedor de APLICAÇÃO (O site/app - ex: Instagram, Dataprev, Twitter):**
-    
-    - Eles guardam os _Registros de Acesso à Aplicação_.
-        
-    - **Prazo Obrigatório:** **6 MESES** (sob sigilo).
-        
-#### 3. A REGRA DO "TIRA DO AR" (Cap. III, Seção II)
+- **📄 Informação clara sobre coleta de dados (incisos VI a IX):** o usuário tem direito a informações claras e completas sobre coleta, uso, armazenamento e tratamento de dados pessoais, com consentimento expresso destacado das demais cláusulas contratuais.
 
-Se alguém cria um perfil falso no Twitter para te xingar, o Twitter tem que te pagar indenização? A resposta é o Art. 19.
+---
 
-- ⚖️ **A Regra Geral (Precisa de Juiz):**
-    
-    O provedor (Twitter/Meta/Google) **NÃO** é responsabilizado automaticamente pelo que o usuário posta. Para a rede social ser punida, você precisa entrar na justiça, o **Juiz** tem que dar uma ordem mandando apagar o post, e a rede social tem que **desobedecer** a ordem. Só aí ela responde pelo dano.
-    
-- 🔥 **A EXCEÇÃO ABSOLUTA (A Vingança Pornô):**
-    
-    Lembra do caso Carolina Dieckmann? O MCI tem uma regra de ouro no Art. 21. Se o conteúdo vazado for de **nudez ou cenas de sexo privado** sem o consentimento da vítima, **NÃO PRECISA DE ORDEM JUDICIAL**.
-    
-    Basta a própria vítima (ou representante) mandar uma notificação para o site dizendo: _"Isso é um nude vazado, tira agora"_. Se o site não tirar de forma diligente, ele passa a ser responsabilizado solidariamente junto com quem postou.
-    
+## 2. A Pegadinha dos Prazos de Guarda de Registros (Cap. III, Seção I)
 
-Está vendo como uma lei vai conectando na outra? O Marco Civil preparou o terreno perfeito para a LGPD entrar rasgando depois.
+A lei obriga a guarda do seu "rastro" (IP, data, hora) para eventual investigação. Existem **dois prazos diferentes**, e a FGV adora inverter isso na prova:
 
-Você prefere que eu crie uma questão estilo FGV misturando a Lei Carolina Dieckmann com os prazos do Marco Civil, ou quer que a gente já avance direto para o chefão final (LGPD)?
+|Quem guarda|O que guarda|Base legal|Prazo obrigatório|
+|---|---|---|---|
+|**Provedor de CONEXÃO** (ex: Claro, Vivo — quem te liga à rede)|Registros de **conexão**|Art. 13|**1 ano**, sob sigilo|
+|**Provedor de APLICAÇÃO** (ex: Instagram, Dataprev, Twitter/X)|Registros de **acesso a aplicações**|Art. 15|**6 meses**, sob sigilo|
+
+🧠 **Mnemônico:** quanto **maior** a "distância" do usuário final (a rede em si), **maior** o prazo → **CONEXÃO = 1 ANO**. Quem está mais "perto" do conteúdo (o app) guarda por **menos tempo** → **APLICAÇÃO = 6 MESES**.
+
+- Autoridade policial, administrativa ou Ministério Público pode requerer **cautelarmente** que os registros de acesso sejam guardados por prazo **superior** ao legal (Art. 15, §2º).
+- Provedores de aplicação **sem fins econômicos** não são obrigados, em regra, a guardar registros de acesso — ponto que a FGV às vezes explora.
+
+---
+
+## 3. A Regra do "Tira do Ar" (Cap. III, Seção II — Arts. 19 a 21)
+
+Se alguém cria um perfil falso para te ofender, a plataforma responde automaticamente? A resposta está no **Art. 19**.
+
+### ⚖️ Regra geral: necessidade de ordem judicial
+
+O provedor de aplicações (Twitter/X, Meta, Google) **não é responsabilizado automaticamente** pelo conteúdo gerado por terceiros. Para que a plataforma responda civilmente pelo dano, é preciso que:
+
+1. Haja **ordem judicial específica** determinando a remoção do conteúdo;
+2. A plataforma **descumpra** essa ordem no prazo assinalado.
+
+Só a partir do descumprimento é que nasce a responsabilidade civil subsidiária do provedor.
+
+### 🔥 Exceção absoluta: Art. 21 — a "Lei Carolina Dieckmann" incorporada ao MCI
+
+Se o conteúdo envolve **cenas de nudez ou de atos sexuais de caráter privado**, veiculadas **sem o consentimento** dos participantes, **não é necessária ordem judicial**. Basta:
+
+1. A própria vítima (ou seu representante legal) enviar **notificação extrajudicial** ao site solicitando a remoção;
+2. Se o site **não agir de forma diligente** para retirar o conteúdo, passa a responder **solidariamente** com quem publicou.
+
+> 💡 Compare sempre: **Art. 19 = regra geral, precisa de juiz** vs. **Art. 21 = exceção, basta notificação da vítima (conteúdo de nudez/sexo não consentido)**. Essa comparação é praticamente garantida em prova FGV.
+
+---
+
+## 4. Por que isso importa para a LGPD
+
+O Marco Civil já trazia, em 2014, a semente do que a LGPD (Lei 13.709/2018) viria a sistematizar: consentimento expresso, informação clara sobre tratamento de dados, direito à exclusão. A FGV gosta de montar questões que atravessam as duas leis — por isso vale entender o MCI não como matéria isolada, mas como a base sobre a qual a LGPD constrói o regime de proteção de dados pessoais.
+
+---
