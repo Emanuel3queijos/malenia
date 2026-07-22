@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LGPD/Delitos Informáticos.md",
+                "file": "LGPD/Marco civil da internet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Delitos Informáticos"
+              "title": "Marco civil da internet"
             }
           }
         ]
@@ -198,8 +198,9 @@
   },
   "active": "fb777028fbe3a2db",
   "lastOpenFiles": [
-    "Documentos/edital dataprev 2026.pdf",
     "LGPD/Delitos Informáticos.md",
+    "LGPD/Marco civil da internet.md",
+    "Documentos/edital dataprev 2026.pdf",
     "LGPD/LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS.md",
     "LGPD/O Quarteto Fantástico lgbt.canvas",
     "Lingua portuguesa/Morfologia/Substantivo.md",
