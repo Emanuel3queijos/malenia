@@ -11,12 +11,17 @@
             "id": "fb777028fbe3a2db",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "Documentos/edital dataprev 2026.pdf"
+                "file": "LGPD/O Quarteto Fantástico lgbt.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "edital dataprev 2026"
+              "icon": "lucide-layout-dashboard",
+              "title": "O Quarteto Fantástico lgbt"
             }
           }
         ]
@@ -196,13 +201,13 @@
   },
   "active": "fb777028fbe3a2db",
   "lastOpenFiles": [
+    "Documentos/edital dataprev 2026.pdf",
     "LGPD/Lei Geral de Proteção de Dados.md",
     "LGPD/LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS.md",
     "LGPD/Untitled.md",
     "LGPD/O Quarteto Fantástico lgbt.canvas",
     "LGPD/Invasão de Dispositivo Informático.md",
     "LGPD/Marco civil da internet.md",
-    "Documentos/edital dataprev 2026.pdf",
     "Lingua portuguesa/Morfologia/Substantivo.md",
     "Lingua portuguesa/Morfologia/morfologia.md",
     "LGPD",
@@ -228,7 +233,6 @@
     "Lingua portuguesa/Fonética/fonema.md",
     "Lingua portuguesa/Fonética/Fonética.md",
     "Lingua portuguesa/Fonética/fonetica mapa mental.canvas",
-    "Lingua portuguesa/Fonética.md",
     "Lingua portuguesa/Fonética",
     "Documentos/edital_receita_federal_-_3a_retificacao.pdf",
     "Documentos/Não confirmado 595202.crdownload",
