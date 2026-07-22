@@ -11,17 +11,14 @@
             "id": "fb777028fbe3a2db",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "LGPD/LGBT, lei da goat brasileira terabyte.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "LGPD/LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "LGBT, lei da goat brasileira terabyte"
+              "icon": "lucide-file",
+              "title": "LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS"
             }
           }
         ]
@@ -201,8 +198,8 @@
   },
   "active": "fb777028fbe3a2db",
   "lastOpenFiles": [
+    "LGPD/O Quarteto Fantástico lgbt.canvas",
     "LGPD/LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS.md",
-    "LGPD/LGBT, lei da goat brasileira terabyte.canvas",
     "Lingua portuguesa/Morfologia/Substantivo.md",
     "Lingua portuguesa/Morfologia/morfologia.md",
     "Documentos/edital dataprev 2026.pdf",
