@@ -91,8 +91,3 @@ O titular pode exigir do controlador, mediante requisição facilitada e gratuit
 A **Autoridade Nacional de Proteção de Dados (ANPD)** é o órgão responsável por fiscalizar, orientar e sancionar o cumprimento da LGPD. Desde a Lei nº 14.460/2022, a ANPD deixou de ser um órgão vinculado à Presidência da República e passou a ser uma **autarquia de natureza especial**, com autonomia técnica, decisória, administrativa e patrimônio próprio, com sede e foro no Distrito Federal.
 
 > 📌 Se a questão disser que a ANPD é "órgão da Presidência da República" como situação **atual**, está desatualizada — isso valia até 2022.
-
----
-
-### Próximo passo
-Topo mandar uma questão estilo FGV cruzando **Dado Sensível vs. Dado Comum** (com a pegadinha do "legítimo interesse") — ou já seguimos para a **Parte 2** (tratamento de dados pelo Poder Público, transferência internacional e sanções)?
