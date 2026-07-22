@@ -1,5 +1,5 @@
 
-### 🚨 MARCO CIVIL DA INTERNET (Lei 12.965/2014)
+### (Lei 12.965/2014)
 
 #### 1. SEUS DIREITOS E GARANTIAS (Cap. II, Seção I)
 
@@ -28,9 +28,6 @@ A lei obriga as empresas a guardarem o seu "rastro" (seu IP, data e hora) para c
         
     - **Prazo Obrigatório:** **6 MESES** (sob sigilo).
         
-
-> **💡 O "Flashcard" Tático:** Conexão (Internetão/Operadora) = **1 ANO**. Aplicação (O App/Site) = **6 MESES**.
-
 #### 3. A REGRA DO "TIRA DO AR" (Cap. III, Seção II)
 
 Se alguém cria um perfil falso no Twitter para te xingar, o Twitter tem que te pagar indenização? A resposta é o Art. 19.
