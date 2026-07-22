@@ -42,12 +42,12 @@ O crime não pune o mero acesso acidental ou curioso. É necessário que o agent
 
 ## 4. Penas e Agravantes (a conta chegou)
 
-|Situação|Pena (redação atual — Lei 14.155/2021)|
-|---|---|
-|Pena base (_caput_)|Reclusão de **1 a 4 anos**, e multa|
-|Se resultar **prejuízo econômico** (§2º)|Aumento de **1/3 a 2/3**|
-|Se resultar (§3º): leitura de comunicações privadas, segredos comerciais/industriais, informações sigilosas, ou controle remoto do dispositivo|Reclusão de **2 a 5 anos**, e multa|
-|Se, na hipótese do §3º, houver **divulgação, comercialização ou transmissão a terceiro** dos dados obtidos (§4º)|Aumento de **1/3 a 2/3** adicional|
+| Situação                                                                                                                                       | Pena (redação atual — Lei 14.155/2021) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| Pena base (_caput_)                                                                                                                            | Reclusão de **1 a 4 anos**, e multa    |
+| Se resultar **prejuízo econômico** (§2º)                                                                                                       | Aumento de **1/3 a 2/3**               |
+| Se resultar (§3º): leitura de comunicações privadas, segredos comerciais/industriais, informações sigilosas, ou controle remoto do dispositivo | Reclusão de **2 a 5 anos**, e multa    |
+| Se, na hipótese do §3º, houver **divulgação, comercialização ou transmissão a terceiro** dos dados obtidos (§4º)                               | Aumento de **1/3 a 2/3** adicional     |
 
 🔥 **O crime fica muito mais grave (reclusão de 2 a 5 anos)** quando resulta em:
 
