@@ -11,17 +11,12 @@
             "id": "fb777028fbe3a2db",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Lingua portuguesa/Morfologia/Morfologia.canvas",
-                "viewState": {
-                  "x": 17.144229642963694,
-                  "y": 1331.867434762989,
-                  "zoom": -1.530795082312424
-                }
+                "file": "Documentos/edital dataprev 2026.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Morfologia"
+              "icon": "lucide-file-text",
+              "title": "edital dataprev 2026"
             }
           }
         ]
@@ -81,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
-    "collapsed": true
+    "width": 402.5
   },
   "right": {
     "id": "25617f7b9b0847b7",
@@ -200,10 +194,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fb777028fbe3a2db",
+  "active": "d7edf2c602d06f69",
   "lastOpenFiles": [
-    "Lingua portuguesa/Morfologia/Artigo.md",
+    "LGPD",
     "Lingua portuguesa/Morfologia/Morfologia.canvas",
+    "Lingua portuguesa/Morfologia/Artigo.md",
     "Lingua portuguesa/Morfologia/Adjetivo.md",
     "Lingua portuguesa/Morfologia/morfologia.md",
     "Lingua portuguesa/Morfologia/Substantivo.md",
@@ -238,7 +233,6 @@
     "Modulo 2/Untitled.md",
     "Raciocínio Lógico-Matemático",
     "Lingua portuguesa",
-    "Documentos/gramatica_comentada_com_interpretacao-2017.pdf",
-    "Untitled"
+    "Documentos/gramatica_comentada_com_interpretacao-2017.pdf"
   ]
 }
