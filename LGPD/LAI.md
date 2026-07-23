@@ -110,3 +110,8 @@ A FGV adora testar se você sabe como o documento entra e sai do sigilo, e quem 
     
 7. **Armadilha do "Meio Certo" (O Estudante vs. O Médico):** A banca pega uma exceção real da lei e muda o sujeito. Exemplo: liberar dados de incapaz sem consentimento existe na lei, mas é só para salvar a vida do paciente, e não para um pesquisador coletar dados para o mestrado. Leia a alternativa até o final prestando atenção em **quem** está pedindo e para **quê**.
 
+A LAI consagrou a regra de ouro da Constituição Federal (Art. 37, § 6º):
+
+1. **Responsabilidade Direta (Objetiva) do Estado:** A vítima não tem que ir caçar qual foi o servidor "João ou Maria" que apertou o botão errado. O Estado (órgão/entidade) é quem responde **diretamente** pelo dano causado pelo vazamento ou mau uso da informação. A vítima processa o Estado e o Estado paga a conta.
+    
+2. **O Direito de Regresso:** O Estado pagou a conta? Agora ele olha para dentro e vai caçar o servidor responsável. Se ficar provado que o servidor agiu com **Dolo** (intenção de vazar) ou **Culpa** (negligência, imprudência, como deixar a senha colada no monitor), o Estado cobra o valor dele.
