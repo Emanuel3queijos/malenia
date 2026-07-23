@@ -53,3 +53,6 @@ Onde a LAI encontra a LGPD. Informações relativas à intimidade, vida privada,
 - **Pegadinha do Presidente da Estatal:** A banca diz que "O Presidente da Dataprev classificou uma informação como Ultrassecreta". **FALSO.** Dirigente de empresa pública só pode classificar até o grau **Secreto**.
     
 - **Pegadinha da Reclassificação:** A autoridade pode rebaixar o grau de sigilo (ex: de Secreta para Reservada) a qualquer momento, mediante reavaliação. O prazo de restrição começa a contar da **data de produção** do documento, e não da data de classificação!
+
+
+> 📖 **O que diz a letra da Lei (Art. 7º, § 2º):** _"Quando não for autorizado acesso integral à informação por ser ela parcialmente sigilosa, **é assegurado o acesso à parte não sigilosa por meio de certidão, extrato ou cópia com ocultação da parte sob sigilo**."_
