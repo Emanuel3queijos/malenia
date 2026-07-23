@@ -99,3 +99,6 @@ A **Autoridade Nacional de Proteção de Dados (ANPD)** é o órgão responsáve
 
 
 >**O que diz a Lei (Art. 52, § 3º):** **Órgão público NÃO paga multa na LGPD.** O § 3º do Art. 52 determina expressamente que às entidades e órgãos públicos aplicam-se apenas os incisos I, IV, V, VI, VII, VIII e IX. Os incisos **II (multa simples)** e **III (multa diária)** foram **excluídos** para a Administração Pública.
+
+
+desenhar aqui em baixo o triangulo extrutural da lgpd
