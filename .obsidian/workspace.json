@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LGPD/Lei Geral de Proteção de Dados.md",
+                "file": "LGPD/Lei de Acesso à Informação (LAI).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lei Geral de Proteção de Dados"
+              "title": "Lei de Acesso à Informação (LAI)"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "right": {
     "id": "25617f7b9b0847b7",
@@ -198,13 +199,13 @@
   },
   "active": "fb777028fbe3a2db",
   "lastOpenFiles": [
-    "LGPD/Marco civil da internet.md",
-    "LGPD/Lei Geral de Proteção de Dados.md",
-    "LGPD/Invasão de Dispositivo Informático.md",
-    "LGPD/LAI.md",
     "LGPD/LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS.md",
-    "LGPD/O Quarteto Fantástico lgbt.canvas",
+    "LGPD/Lei de Acesso à Informação (LAI).md",
     "Documentos/edital dataprev 2026.pdf",
+    "LGPD/Lei Geral de Proteção de Dados.md",
+    "LGPD/Marco civil da internet.md",
+    "LGPD/Invasão de Dispositivo Informático.md",
+    "LGPD/O Quarteto Fantástico lgbt.canvas",
     "LGPD/Untitled.md",
     "Lingua portuguesa/Morfologia/Substantivo.md",
     "Lingua portuguesa/Morfologia/morfologia.md",
