@@ -134,3 +134,9 @@ A FGV adora misturar LAI com a Responsabilidade Civil do Estado. Se houver vazam
 3. O Estado Paga: O juiz condena o Estado a pagar R$ 50 mil de indenização. O dinheiro sai dos cofres públicos e vai para o cidadão.
     
 4. **O Direito de Regresso:** O Estado pagou a conta, mas não aceita o prejuízo gerado por erro funcional. Ele "volta-se" (_regressa_) contra o servidor em um novo processo interno/judicial para exigir que o servidor devolva esses R$ 50 mil do próprio bolso.
+Em **Sanções a Entidades Privadas com Vínculo (Art. 33)**, atente-se a estes dois gatilhos numéricos/formais:
+
+> - **Suspensão de licitar na LAI:** Máximo de **2 anos** (se a questão falar 4 ou 5 anos, está errada).
+>     
+> - **Reabilitação de Inidoneidade:** Pedida na **própria autoridade** que puniu (se falar "autoridade superior", está errada).
+>
