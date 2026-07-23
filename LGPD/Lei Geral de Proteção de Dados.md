@@ -91,3 +91,11 @@ O titular pode exigir do controlador, mediante requisição facilitada e gratuit
 A **Autoridade Nacional de Proteção de Dados (ANPD)** é o órgão responsável por fiscalizar, orientar e sancionar o cumprimento da LGPD. Desde a Lei nº 14.460/2022, a ANPD deixou de ser um órgão vinculado à Presidência da República e passou a ser uma **autarquia de natureza especial**, com autonomia técnica, decisória, administrativa e patrimônio próprio, com sede e foro no Distrito Federal.
 
 > 📌 Se a questão disser que a ANPD é "órgão da Presidência da República" como situação **atual**, está desatualizada — isso valia até 2022.
+
+
+> Exige obrigatoriamente a realização de **"processo administrativo que lhes assegure a oportunidade de ampla defesa"**. Não existe sanção sumária ou sem devido processo legal na LGPD, independentemente da conduta do infrator. 
+
+> - **O que diz a Lei (Art. 52, _caput_):** Exige obrigatoriamente a realização de **"processo administrativo que lhes assegure a oportunidade de ampla defesa"**. Não existe sanção sumária ou sem devido processo legal na LGPD, independentemente da conduta do infrator.
+
+
+**O que diz a Lei (Art. 52, § 3º):** **Órgão público NÃO paga multa na LGPD.** O § 3º do Art. 52 determina expressamente que às entidades e órgãos públicos aplicam-se apenas os incisos I, IV, V, VI, VII, VIII e IX. Os incisos **II (multa simples)** e **III (multa diária)** foram **excluídos** para a Administração Pública.
