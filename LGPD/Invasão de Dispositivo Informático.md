@@ -70,3 +70,10 @@ O crime não pune o mero acesso acidental ou curioso. É necessário que o agent
 - **Exceção:** ação penal **pública incondicionada** (não depende de representação) quando o crime é cometido contra a **administração pública direta ou indireta** (de qualquer Poder/ente federativo) ou contra **empresas concessionárias de serviços públicos**.
 
 > 💡 Combine com o tópico 4: se a vítima for autoridade do §5º (ex.: prefeito) _enquanto_ age no exercício do cargo/administração pública, a banca pode cruzar os dois pontos — atenção redobrada aqui.
+
+
+**Regra de Ouro da Ação Penal:** Quem define se o processo é do MP (Denúncia) ou da Vítima (Queixa-Crime) é a regra escrita no final do capítulo de cada crime no Código Penal.
+
+- **Crime Cibernético (154-A):** Sempre do MP.
+    
+- **Crimes contra a Honra de Servidor (Súmula 714 STF):** Concorrente. O servidor escolhe se vai de MP ou se entra com Queixa-Crime ele mesmo.
