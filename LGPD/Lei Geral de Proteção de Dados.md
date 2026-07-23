@@ -102,3 +102,54 @@ A **Autoridade Nacional de Proteção de Dados (ANPD)** é o órgão responsáve
 
 
 desenhar aqui em baixo o triangulo extrutural da lgpd
+
+Essa questão é o suco da FGV: ela pega três termos extremamente parecidos, troca as definições de lugar e torce para o candidato se confundir no nervosismo da prova.
+
+Para nunca mais cair nessa pegadinha, você só precisa memorizar o **triângulo estrutural da LGPD**:
+
+### 1. Entendendo os Termos (O Desenho Legal)
+
+1. **ANPD (Autoridade Nacional de Proteção de Dados):**
+    
+    - **O que é:** É a **entidade** responsável por fiscalizar, aplicar a lei e dar multas/sanções.
+        
+    - **Natureza Jurídica:** Atualmente é uma **Autarquia de Natureza Especial** (vinculada ao Ministério da Gestão).
+        
+2. **Conselho Diretor (A Cúpula da ANPD):**
+    
+    - **O que é:** É o órgão decisório máximo **da ANPD**.
+        
+    - **Composição:** Formado por apenas **5 diretores** nomeados pelo Presidente da República.
+        
+    - **Garantias:** Eles têm **mandato fixo de 4 anos** e **estabilidade** (só perdem o cargo em 3 hipóteses: renúncia, condenação judicial transitada em julgado ou PAD).
+        
+3. **CNPD (Conselho Nacional de Proteção de Dados Pessoais e da Privacidade):**
+    
+    - **O que é:** É um **órgão consultivo** que integra a ANPD. Ele **não** aplica multas e **não** toma decisões administrativas.
+        
+    - **Composição:** Formado por **23 membros** representantes do Estado (Câmara, Senado, CNJ, CNMP) e da sociedade civil (empresas, trabalhadores, academia).
+        
+    - **Função:** **Sugerir, opinar, propor diretrizes e disseminar o conhecimento sobre proteção de dados.**
+        
+
+### 2. Dissecando as Alternativas da FGV
+
+- **A) INCORRETA:** O CNPD não é empresa pública (é um órgão consultivo sem personalidade jurídica própria). A ANPD hoje é uma Autarquia de Natureza Especial, e não mero órgão da administração direta.
+    
+- **B) INCORRETA:** A FGV **inverteu os conceitos**. Essa composição com representantes da Câmara, Senado, CNJ, CNMP e CGI.br pertence ao **CNPD** (23 membros), e **não** ao _Conselho Diretor_ (que possui apenas os 5 diretores da ANPD).
+    
+- **C) CORRETA:** É a transcrição literal dos **incisos III e V do Art. 58-B da LGPD**:
+    
+    > _"Art. 58-B. Compete ao CNPD: [...] III - **sugerir ações a serem realizadas pela ANPD**; [...] V - **disseminar o conhecimento sobre a proteção de dados pessoais e da privacidade à população**."_
+    
+- **D) INCORRETA:** A FGV **trocou as regras de estabilidade**. Essa exigência rigorosa de perda de cargo (renúncia, trânsito em julgado ou PAD) é exclusiva dos **5 membros do Conselho Diretor da ANPD** (Art. 55-D, § 1º). Os membros do CNPD são apenas conselheiros representantes com mandato de 2 anos.
+    
+- **E) INCORRETA:** A hierarquia foi invertida. O **CNPD é quem integra a estrutura da ANPD** (Art. 58-A), e não o contrário.
+    
+
+### 📊 Resumo de Algibeira para a FGV
+
+| **Estrutura**        | **Composição**              | **Função Principal**                | **Perda de Cargo por PAD/Judicial?**              |
+| -------------------- | --------------------------- | ----------------------------------- | ------------------------------------------------- |
+| **Conselho Diretor** | 5 Diretores                 | Decisório / Executivo / Regulatório | **SIM** (Possui estabilidade no mandato)          |
+| **CNPD**             | 23 Membros (Multi-setorial) | Consultivo / Sugestão / Difusão     | **NÃO** (Apenas mandato de 2 anos sem essa trava) |
