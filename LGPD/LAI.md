@@ -66,22 +66,23 @@ Onde a LAI encontra a LGPD. Informações relativas à intimidade, vida privada,
 
 A FGV adora testar se você sabe como o documento entra e sai do sigilo, e quem tem o poder da "canetada".
 
-- **O Motivo Único:** O sigilo não serve para esconder corrupção, falha de gestão ou proteger a imagem de político. Ele só é válido e legal se a divulgação colocar em risco a **Segurança da Sociedade ou do Estado** (ex: soberania, relações internacionais, vida da população).
+- **A Regra da Data de Validade (Art. 28):** O governo não pode simplesmente carimbar "Sigiloso" e jogar na gaveta. A classificação de sigilo deve **necessariamente** indicar o prazo (em anos, meses, dias) ou o evento que defina o seu termo final. O carimbo tem que vir com data de validade.
     
-- **A Hierarquia da Caneta (Art. 27):** Quanto maior o prazo de sigilo, mais alto deve ser o cargo de quem assina. O Presidente da República classifica no máximo (Ultrassecreto), mas o Presidente de uma Estatal (ex: Dataprev) bate no teto do grau **Secreto**. Servidor comum não classifica nada.
+- **O Motivo Único:** O sigilo não serve para esconder corrupção, falha de gestão ou proteger a imagem de político. Ele só é válido e legal se a divulgação colocar em risco a Segurança da Sociedade ou do Estado (ex: soberania, relações internacionais, vida da população).
+    
+- **A Hierarquia da Caneta (Art. 27):** Quanto maior o prazo de sigilo, mais alto deve ser o cargo de quem assina. O Presidente da República classifica no máximo (Ultrassecreto), mas o Presidente de uma Estatal (ex: Dataprev) bate no teto do grau Secreto. Servidor comum não classifica nada.
     
 - **O Cronômetro (A Maior Pegadinha):** O prazo de restrição (5, 15 ou 25 anos) começa a contar da **DATA DE PRODUÇÃO** do documento, e NUNCA da data de classificação!
     
-- **O Caminho de Volta (Reavaliação):** O sigilo não é eterno. A autoridade tem o dever de reavaliar o documento. Ela pode **desclassificar** (tornar público) ou **rebaixar** o grau (ex: de Secreto para Reservado) a qualquer momento.
+- **O Caminho de Volta (Reavaliação):** O sigilo não é eterno. A autoridade tem o dever de reavaliar o documento. Ela pode desclassificar (tornar público) ou rebaixar o grau (ex: de Secreto para Reservado) a qualquer momento.
     
 - **Desclassificação Automática:** Se o prazo máximo estourar (ex: deu 5 anos num documento Reservado) e ninguém fizer nada, ele sofre desclassificação automática e vira público no dia seguinte.
     
 - **O Veto Absoluto (O que NUNCA pode ser sigiloso):**
     
-    1. Informações sobre violação de **Direitos Humanos** praticadas por agentes públicos.
+    - Informações sobre violação de Direitos Humanos praticadas por agentes públicos.
         
-    2. Informações para acompanhamento de **repasse de recursos públicos**.
-
+    - Informações para acompanhamento de repasse de recursos públicos.
 #### 5. 💣 TOP 7 Pegadinhas da FGV (Seu Radar de Armadilhas)
 
 1. **Pegadinha do Motivo:** A banca diz que "o requerente deve justificar o motivo do pedido para evitar abusos". **FALSO.** É estritamente vedada qualquer exigência relativa aos motivos determinantes do pedido.
