@@ -83,6 +83,17 @@ A FGV adora testar se você sabe como o documento entra e sai do sigilo, e quem 
     - Informações sobre violação de Direitos Humanos praticadas por agentes públicos.
         
     - Informações para acompanhamento de repasse de recursos públicos.
+- **As Camadas de Risco (O que é legítimo esconder - Art. 23):** O sigilo não serve para esconder corrupção ou proteger político. Ele só é válido se a divulgação comprometer:
+
+	- Defesa nacional, soberania ou integridade territorial.
+    
+	- Condução de negociações ou relações internacionais.
+    
+	- Vida, segurança ou saúde da população.
+    
+	- Estabilidade financeira, econômica ou monetária do País.
+    
+	- Projetos de pesquisa e desenvolvimento científico/tecnológico (a pegadinha que você resolveu!).
 #### 5. 💣 TOP 7 Pegadinhas da FGV (Seu Radar de Armadilhas)
 
 1. **Pegadinha do Motivo:** A banca diz que "o requerente deve justificar o motivo do pedido para evitar abusos". **FALSO.** É estritamente vedada qualquer exigência relativa aos motivos determinantes do pedido.
