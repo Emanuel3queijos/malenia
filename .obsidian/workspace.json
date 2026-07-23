@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LGPD/Invasão de Dispositivo Informático.md",
+                "file": "LGPD/Marco civil da internet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Invasão de Dispositivo Informático"
+              "title": "Marco civil da internet"
             }
           }
         ]
@@ -198,10 +198,10 @@
   },
   "active": "fb777028fbe3a2db",
   "lastOpenFiles": [
-    "LGPD/Marco civil da internet.md",
     "LGPD/Lei Geral de Proteção de Dados.md",
-    "LGPD/LAI.md",
     "LGPD/Invasão de Dispositivo Informático.md",
+    "LGPD/Marco civil da internet.md",
+    "LGPD/LAI.md",
     "LGPD/LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS.md",
     "LGPD/O Quarteto Fantástico lgbt.canvas",
     "Documentos/edital dataprev 2026.pdf",

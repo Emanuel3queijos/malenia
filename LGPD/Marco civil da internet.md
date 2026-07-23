@@ -3,7 +3,7 @@
 > O MCI estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil. É a "constituição da internet" — e serve de ponte direta para a LGPD, que a FGV adora explorar em conjunto.
 
 ---
-
+> "As sanções previstas nos incisos I a IV deste artigo poderão ser aplicadas **isolada ou cumulativamente**, de acordo com a gravidade da infração."
 ## 1. Seus Direitos e Garantias (Cap. II, Seção I — Art. 7º)
 
 A lei diz que o acesso à internet é essencial ao exercício da cidadania (Art. 7º, _caput_). A FGV cobra pesado os incisos deste artigo. Os mais recorrentes:
