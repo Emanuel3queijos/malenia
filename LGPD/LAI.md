@@ -124,3 +124,13 @@ A FGV adora misturar LAI com a Responsabilidade Civil do Estado. Se houver vazam
 - **O Direito de Regresso:** Após pagar a conta da vítima, o Estado vai atrás do servidor. A responsabilidade funcional do servidor só existe se houver **Dolo** (intenção) ou **Culpa** (negligência/imprudência).
     
 - **A "Lei Tem Dente":** A LAI tipifica condutas ilícitas (Art. 32). Recusar informação, atrasar de propósito ou destruir documentos gera punição, que vai desde advertência até demissão a bem do serviço público.
+
+### 🎬 O Filme do Dano (Como funciona na prática)
+
+1. **O Erro:** Um servidor da Dataprev, por preguiça de seguir o protocolo de segurança, deixa uma senha exposta e vaza dados sigilosos de um cidadão.
+    
+2. **O Processo do Cidadão:** A vítima percebe o dano e entra na Justiça. Ela **processa o Estado** (ou a Estatal), e **NÃO** o servidor.
+    
+3. O Estado Paga: O juiz condena o Estado a pagar R$ 50 mil de indenização. O dinheiro sai dos cofres públicos e vai para o cidadão.
+    
+4. **O Direito de Regresso:** O Estado pagou a conta, mas não aceita o prejuízo gerado por erro funcional. Ele "volta-se" (_regressa_) contra o servidor em um novo processo interno/judicial para exigir que o servidor devolva esses R$ 50 mil do próprio bolso.
