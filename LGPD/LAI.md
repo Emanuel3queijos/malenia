@@ -40,11 +40,11 @@ Decorar esses prazos é questão garantida na prova.
 
 Informações que colocam em risco a segurança da sociedade ou do Estado podem ser restritas temporariamente.
 
-|**Grau de Sigilo**|**Prazo Máximo**|**Quem Classifica (Autoridades)**|**Prorrogação?**|
-|---|---|---|---|
-|**Ultrassecreta**|25 anos|Presidente/Vice, Ministros, Comandantes FA, Chefes Missão Diplomática no exterior.|SIM (1x, máximo de 50 anos)|
-|**Secreta**|15 anos|Todas acima + Titulares de autarquias, fundações ou empresas públicas (Ex: Presidente da Dataprev).|NÃO|
-|**Reservada**|5 anos|Todas acima + ocupantes de cargo de direção/comando (DAS 101.5 ou superior).|NÃO|
+| **Grau de Sigilo** | **Prazo Máximo** | **Quem Classifica (Autoridades)**                                                                   | **Prorrogação?**            |
+| ------------------ | ---------------- | --------------------------------------------------------------------------------------------------- | --------------------------- |
+| **Ultrassecreta**  | 25 anos          | Presidente/Vice, Ministros, Comandantes FA, Chefes Missão Diplomática no exterior.                  | SIM (1x, máximo de 50 anos) |
+| **Secreta**        | 15 anos          | Todas acima + Titulares de autarquias, fundações ou empresas públicas (Ex: Presidente da Dataprev). | NÃO                         |
+| **Reservada**      | 5 anos           | Todas acima + ocupantes de cargo de direção/comando (DAS 101.5 ou superior).                        | NÃO                         |
 
 > ✂️ **A Regra da Tarja Preta (Art. 7º, § 2º):** Quando um documento tem partes sigilosas e partes públicas, o governo **não pode negar o documento inteiro**. É assegurado o acesso à parte não sigilosa por meio de certidão, extrato ou cópia com ocultação da parte sob sigilo.
 
