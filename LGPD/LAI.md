@@ -115,3 +115,12 @@ A LAI consagrou a regra de ouro da Constituição Federal (Art. 37, § 6º):
 1. **Responsabilidade Direta (Objetiva) do Estado:** A vítima não tem que ir caçar qual foi o servidor "João ou Maria" que apertou o botão errado. O Estado (órgão/entidade) é quem responde **diretamente** pelo dano causado pelo vazamento ou mau uso da informação. A vítima processa o Estado e o Estado paga a conta.
     
 2. **O Direito de Regresso:** O Estado pagou a conta? Agora ele olha para dentro e vai caçar o servidor responsável. Se ficar provado que o servidor agiu com **Dolo** (intenção de vazar) ou **Culpa** (negligência, imprudência, como deixar a senha colada no monitor), o Estado cobra o valor dele.
+#### 7. Quem Paga a Conta? (Responsabilidade na LAI - Art. 34)
+
+A FGV adora misturar LAI com a Responsabilidade Civil do Estado. Se houver vazamento de informação sigilosa ou uso indevido de dados pessoais sob a guarda do Estado:
+
+- **Responsabilidade Direta do Estado (Objetiva):** O cidadão ou a empresa (CPF ou CNPJ) processa diretamente o órgão/entidade pública. A vítima NÃO processa o servidor.
+    
+- **O Direito de Regresso:** Após pagar a conta da vítima, o Estado vai atrás do servidor. A responsabilidade funcional do servidor só existe se houver **Dolo** (intenção) ou **Culpa** (negligência/imprudência).
+    
+- **A "Lei Tem Dente":** A LAI tipifica condutas ilícitas (Art. 32). Recusar informação, atrasar de propósito ou destruir documentos gera punição, que vai desde advertência até demissão a bem do serviço público.
