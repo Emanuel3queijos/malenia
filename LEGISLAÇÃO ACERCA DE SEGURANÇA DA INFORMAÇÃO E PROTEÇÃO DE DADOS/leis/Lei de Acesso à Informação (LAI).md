@@ -2,7 +2,7 @@
 
 > [!info] Edital <u>Lei nº 12.527/2011 (LAI): Capítulos I, II, III, IV e V</u>; <u>Dec. nº 7.724/2012 e nº 7.845/2012</u>
 
-💡 **A Regra de Ouro (Mantra da LAI):** A publicidade é o preceito geral; o sigilo é a exceção absoluta. (O direito ao acesso não é absoluto, pois barra no Sigilo e nos Dados Pessoais).
+💡A publicidade é o preceito geral; o sigilo é a exceção absoluta. (O direito ao acesso não é absoluto, pois barra no Sigilo e nos Dados Pessoais).
 
 ---
 
@@ -126,10 +126,8 @@ A FGV adora misturar LAI com a Responsabilidade Civil do Estado (Art. 37, § 6º
 
 ## 8. Os Decretos Regulamentadores <u>(Dec. nº 7.724/2012 e Dec. nº 7.845/2012)</u>
 
-> [!warning] Seção a completar Seu resumo original não tinha nada sobre esses dois decretos, e como o edital cobra os dois por nome, vale a pena você complementar isso com aula/livro específico — abaixo só coloquei o que consigo confirmar com segurança, sem arriscar te passar prazo ou número errado.
 
 - **Dec. nº 7.724/2012:** regulamenta a LAI **no âmbito do Poder Executivo federal** — é o decreto "operacional", que detalha o rito do pedido de acesso (e-SIC), prazos, recursos e classificação de sigilo dentro do Executivo Federal.
     - Ponto clássico de prova: originalmente, o decreto **vedava a delegação de competência** para classificar informação como Ultrassecreta ou Secreta (só permitia delegar a classificação de Reservada). Isso foi alterado pelo Decreto nº 9.960/2019, que passou a permitir a delegação também para os graus Ultrassecreto e Reservado. _Fique atento: isso é regulamento, não a Lei 12.527 em si — só cai se o edital pedir expressamente o Decreto 7.724._
 - **Dec. nº 7.845/2012:** regulamenta os procedimentos para **credenciamento de segurança** e o **tratamento de informação classificada** em qualquer grau de sigilo (é o decreto mais "de segurança/credenciamento", complementar ao 7.724).
 
-_(Sugiro você preencher esta seção com os pontos que sua aula/questões trouxerem sobre NCA — Núcleo de Segurança e Credenciamento —, prazos específicos de cada decreto e eventuais diferenças procedimentais em relação à Lei.)_
