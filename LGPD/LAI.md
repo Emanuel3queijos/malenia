@@ -1,6 +1,5 @@
 
-# 🏛️ Resumo Tático: Lei de Acesso à Informação (LAI)
-
+# 🏛️ Resumo Tático: Lei de Acesso à Informação (LAI)Lei 12.527/11
 
 > 💡 **A Regra de Ouro (Mantra da LAI):** A **publicidade** é o preceito geral; o **sigilo** é a exceção absoluta.
 
