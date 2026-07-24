@@ -176,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +191,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fb777028fbe3a2db",
+  "active": "d7edf2c602d06f69",
   "lastOpenFiles": [
     "especificas data/Untitled.md",
     "especificas data/video url.md",
