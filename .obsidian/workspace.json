@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
-    "collapsed": true
+    "width": 402.5
   },
   "right": {
     "id": "25617f7b9b0847b7",
@@ -199,10 +198,10 @@
   },
   "active": "fb777028fbe3a2db",
   "lastOpenFiles": [
-    "Documentos/Guia-PMBOK-7a-Edicao.pdf",
-    "Documentos/Não confirmado 572705.crdownload",
     "GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO/GGTI.md",
     "GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO/Gerenciamento de projetos/Gerenciamento de projetos (PMBOK 7ª edição).md",
+    "Documentos/Guia-PMBOK-7a-Edicao.pdf",
+    "Documentos/Não confirmado 572705.crdownload",
     "GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO/Gerenciamento de projetos/Fundamentos da Gestão de Projetos e o Contexto do Software.md",
     "GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO/Gerenciamento de projetos/Untitled",
     "GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO/Gerenciamento de projetos",
@@ -236,7 +235,6 @@
     "especificas data/📘Conceitos de IA, Análise de Dados e Big Data Aplicados ao Desenvolvimento.md",
     "Lingua portuguesa/Morfologia/Morfologia.md",
     "Lingua portuguesa/mestre.md",
-    "Lingua portuguesa/Morfologia",
     "Lingua portuguesa.md",
     "Lingua portuguesa/Fonética/Fonetica Mapa mental.canvas",
     "Lingua portuguesa/Fonética/Encontro Vocalico.md",

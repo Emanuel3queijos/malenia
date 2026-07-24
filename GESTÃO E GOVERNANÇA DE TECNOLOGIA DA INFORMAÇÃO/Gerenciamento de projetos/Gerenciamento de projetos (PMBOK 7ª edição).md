@@ -25,3 +25,6 @@ De acordo com o Guia-PMBOK-7 um **projeto** é um esforço **temporário** e
 > um **programa** é definido como um grupo de projetos, subprogramas ou atividades que estão interligados e são gerenciados de maneira coordenada para gerar benefícios que não seriam alcançados se fossem gerenciados de forma isolada
 
 >á o **portfólio** é um conjunto de projetos, programas e operações que são gerenciados em grupo para alcançar os objetivos estratégicos da organização
+
+PMBOK INTRODUZIU ESSA PORRA AQUI: 
+## Sistema de Entrega de Valor
