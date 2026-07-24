@@ -54,8 +54,6 @@ Ocorre quando há **INVIABILIDADE DE COMPETIÇÃO**.
 ### 🔄 Inversão de Fases como Regra Geral (Art. 51)
 Diferente do regime clássico do antigo estatuto, a Lei das Estatais adota a **inversão de fases**:
 
-[1º Julgamento das Propostas] ➔ [2º Exame de Habilitação do Vencedor]
-
 
 > [!tip] Regra x Exceção
 > * **Regra:** Julgamento $\rightarrow$ Habilitação (apenas do 1º colocado).
