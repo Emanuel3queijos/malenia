@@ -1,23 +1,9 @@
----
-title: "Lei nº 13.303/2016 — Licitações e Contratos nas Estatais (Arts. 28 a 90)"
-tags:
-  - direito-administrativo
-  - licitacoes
-  - lei-13303
-  - estatais
-  - banca-fgv
-  - resumo-concurso
-date: 2026-07-24
-banca: FGV
-materia: Direito Administrativo
----
 
-# 📚 Lei nº 13.303/2016 — Licitações e Contratos nas Estatais (Arts. 28 a 90)
 
 > [!abstract] Visão Geral para Concursos
 > A **Lei nº 13.303/2016** (Estatuto Jurídico das Empresas Públicas, Sociedades de Economia Mista e suas Subsidiárias) disciplina o regime licitatório e contratual do setor produtivo do Estado. 
 > 
-> A **FGV** cobra este tema com foco em **casos práticos ("estorinhas")**, testando a capacidade do candidato de diferenciar o regime das Estatais do regime da Administração Direta/Autárquica ([[Lei 14.133/2021]]), identificando exceções e pegadinhas operacionais.
+> A **FGV** cobra este tema com foco em **casos práticos ("estorinhas")**, testando a capacidade do candidato de diferenciar o regime das Estatais do regime da Administração Direta/Autárquica ([[2021]]), identificando exceções e pegadinhas operacionais.
 
 ---
 
@@ -115,7 +101,7 @@ Sanções aplicáveis ao licitante/contratado faltoso:
 3. **Suspensão temporária** de participação em licitação e impedimento de contratar com a **MESMA EMPRESA ESTATAL** por prazo não superior a **2 anos**.
 
 > [!warning] Alcance da Suspensão na Lei 13.303
-> Diferente da [[Lei 14.133/2021]] (que impede de licitar com a Administração Direta/Autárquica do ente), a suspensão da Lei 13.303/2016 aplica-se **apenas em relação à própria empresa estatal contratante**.
+> Diferente da [[2021]] (que impede de licitar com a Administração Direta/Autárquica do ente), a suspensão da Lei 13.303/2016 aplica-se **apenas em relação à própria empresa estatal contratante**.
 
 ---
 
@@ -129,14 +115,14 @@ Sanções aplicáveis ao licitante/contratado faltoso:
 
 ## ⚖️ Quadro Comparativo: Lei 13.303/2016 vs. Lei 14.133/2021
 
-| Aspecto | Lei nº 13.303/2016 (Estatais) | Lei nº 14.133/2021 (Admin. Direta/Autárquica) |
-| :--- | :--- | :--- |
-| **Público-Alvo** | EPs, SEMs e Subsidiárias | União, Estados, DF e Municípios (Direta, Autarquias, Fundações) |
-| **Inversão de Fases** | Regra Geral (Julgamento $\rightarrow$ Habilitação) | Regra Geral (Julgamento $\rightarrow$ Habilitação) |
-| **Dispensa Engenharia**| Até R$ 100.000,00 | Até R$ 100.000,00 (reajustado anualmente) |
-| **Dispensa Outros** | Até R$ 50.000,00 | Até R$ 50.000,00 (reajustado anualmente) |
-| **Atividade-Fim** | Não sujeita à licitação (Art. 28, § 3º) | Não possui esta figura (Admin. Direta não tem fim mercantil) |
-| **Abrangência da Sanção**| Apenas no âmbito da **própria estatal** | Toda a Administração Pública do Ente ou Nacional |
+| Aspecto                   | Lei nº 13.303/2016 (Estatais)                      | Lei nº 14.133/2021 (Admin. Direta/Autárquica)                   |
+| :------------------------ | :------------------------------------------------- | :-------------------------------------------------------------- |
+| **Público-Alvo**          | EPs, SEMs e Subsidiárias                           | União, Estados, DF e Municípios (Direta, Autarquias, Fundações) |
+| **Inversão de Fases**     | Regra Geral (Julgamento $\rightarrow$ Habilitação) | Regra Geral (Julgamento $\rightarrow$ Habilitação)              |
+| **Dispensa Engenharia**   | Até R$ 100.000,00                                  | Até R$ 100.000,00 (reajustado anualmente)                       |
+| **Dispensa Outros**       | Até R$ 50.000,00                                   | Até R$ 50.000,00 (reajustado anualmente)                        |
+| **Atividade-Fim**         | Não sujeita à licitação (Art. 28, § 3º)            | Não possui esta figura (Admin. Direta não tem fim mercantil)    |
+| **Abrangência da Sanção** | Apenas no âmbito da **própria estatal**            | Toda a Administração Pública do Ente ou Nacional                |
 
 ---
 
