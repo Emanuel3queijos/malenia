@@ -90,7 +90,7 @@ Ocorre quando há **INVIABILIDADE DE COMPETIÇÃO**.
 
 ---
 
-## 3. Procedimento e Fases da Licitação (Arts. 51 a 67)
+# Procedimento e Fases da Licitação (Arts. 51 a 67)
 
 ### 🔄 Inversão de Fases como Regra Geral (Art. 51)
 Diferente do regime clássico do antigo estatuto, a Lei das Estatais adota a **inversão de fases**:
@@ -115,7 +115,7 @@ Diferente do regime clássico do antigo estatuto, a Lei das Estatais adota a **i
 
 ---
 
-## 4. Regime dos Contratos Administrativos (Arts. 68 a 84)
+# Regime dos Contratos Administrativos (Arts. 68 a 84)
 
 ### ⏱️ Duração dos Contratos
 * **Regra Geral:** Duração de até **5 anos** contados da assinatura.
@@ -131,7 +131,7 @@ A Lei 13.303/2016 consagrou a obrigatoriedade/relevância da **Matriz de Riscos*
 
 ---
 
-## 5. Sanções e Processo Administrativo (Arts. 85 a 90)
+# Sanções e Processo Administrativo (Arts. 85 a 90)
 
 Sanções aplicáveis ao licitante/contratado faltoso:
 1. Advertência.
@@ -143,7 +143,7 @@ Sanções aplicáveis ao licitante/contratado faltoso:
 
 ---
 
-## 🎯 Raio-X da FGV: Como este tema cai em prova?
+# 🎯 Raio-X da FGV: Como este tema cai em prova?
 
 * **Casos Práticos ("Estorinhas"):** Diretores de EP/SEM tomando decisões sem licitação (Atividade-fim vs Inexigibilidade).
 * **Confronto de Leis (13.303 x 14.133):** Testa se o candidato sabe que a Lei 14.133 NÃO revogou o regime da Lei 13.303.
@@ -151,7 +151,7 @@ Sanções aplicáveis ao licitante/contratado faltoso:
 
 ---
 
-## ⚖️ Quadro Comparativo: Lei 13.303/2016 vs. Lei 14.133/2021
+# ⚖️ Quadro Comparativo: Lei 13.303/2016 vs. Lei 14.133/2021
 
 | Aspecto                   | Lei nº 13.303/2016 (Estatais)                      | Lei nº 14.133/2021 (Admin. Direta/Autárquica)                   |
 | :------------------------ | :------------------------------------------------- | :-------------------------------------------------------------- |
@@ -163,7 +163,7 @@ Sanções aplicáveis ao licitante/contratado faltoso:
 | **Abrangência da Sanção** | Apenas no âmbito da **própria estatal**            | Toda a Administração Pública do Ente ou Nacional                |
 
 ---
-## Como a Lei 13.303 se conecta à Governança de TI
+# Como a Lei 13.303 se conecta à Governança de TI
 
 ```
 ┌──────────────────────────────────────┐       ┌──────────────────────────────────────┐
@@ -176,7 +176,7 @@ Sanções aplicáveis ao licitante/contratado faltoso:
 └──────────────────────────────────────┘       └──────────────────────────────────────┘
 ```
 
-### 1. Alinhamento Estratégico e Entrega de Valor
+###  Alinhamento Estratégico e Entrega de Valor
 
 - **O conceito de Governança:** A TI não pode ser um "gargalo" burocrático. Se o Governo precisa lançar uma nova funcionalidade no aplicativo da Previdência ou integrar dados de assistência social, a TI da Dataprev precisa entregar a solução rapidamente.
     
@@ -187,7 +187,7 @@ Sanções aplicáveis ao licitante/contratado faltoso:
     - **Exceção de Atividade-Fim (Art. 28, § 3º):** Se a Dataprev precisar fechar uma parceria tecnológica para desenvolver uma nova solução de inteligência artificial com uma empresa privada, ela tem permissão legal para agir na velocidade do mercado, sem o trâmite de uma licitação tradicional engessada.
         
 
-### 2. Gestão de Riscos de TI (_Risk Management_)
+### Gestão de Riscos de TI (_Risk Management_)
 
 - **O conceito de Governança:** O maior risco em TI pública não é apenas gastar dinheiro, é **o sistema cair ou o projeto falhar**. Se o sistema da Dataprev fica fora do ar, milhões de cidadãos deixam de receber benefícios.
     
@@ -198,7 +198,7 @@ Sanções aplicáveis ao licitante/contratado faltoso:
     - **Atestados de Capacidade Técnica:** Impedem que uma "empresa de fachada" vença a licitação apenas oferecendo o preço mais baixo, garantindo que só fornecedores com histórico comprovado operem sistemas críticos.
         
 
-### 3. Gestão de Desempenho e de Fornecedores (_Supplier Management_)
+###  Gestão de Desempenho e de Fornecedores (_Supplier Management_)
 
 - **O conceito de Governança:** Governança de TI exige acompanhamento contínuo de Acordos de Nível de Serviço (SLA - _Service Level Agreements_). Não basta contratar; é preciso medir se o fornecedor está entregando o serviço no tempo correto.
     
@@ -207,7 +207,7 @@ Sanções aplicáveis ao licitante/contratado faltoso:
     - **Cadastro de Desempenho (Art. 67):** Transforma o cumprimento do SLA em nota oficial. Se a empresa contratada prestou um serviço de TI ruim, essa pontuação fica registrada no cadastro da estatal, impactando futuras contratações ou gerando sanções contratuais de forma objetiva.
         
 
-### 4. Compliance, Auditabilidade e Transparência
+###  Compliance, Auditabilidade e Transparência
 
 - **O conceito de Governança:** Garantir que as decisões de compra de tecnologia sejam rastreáveis e auditáveis por órgãos de controle (como o TCU e a CGU), evitando favorecimentos ou decisões arbitrárias dos gestores.
     
@@ -216,7 +216,7 @@ Sanções aplicáveis ao licitante/contratado faltoso:
     - Define critérios estritos de **Inexigibilidade** (Art. 30) para compras de software proprietário, exigindo justificativa técnica e de preço documental para evitar o famoso _vendor lock-in_ (ficar "refém" de um único fornecedor sem respaldo legal).
         
 
-## Como isso cai na Prova (Especialmente para Cargos de TI na Dataprev)
+# Como isso cai na Prova (Especialmente para Cargos de TI na Dataprev)
 
 A banca **FGV** costuma elaborar questões que mesclam conhecimentos de **Gestão/Governança de TI** com **Direito Administrativo**:
 
