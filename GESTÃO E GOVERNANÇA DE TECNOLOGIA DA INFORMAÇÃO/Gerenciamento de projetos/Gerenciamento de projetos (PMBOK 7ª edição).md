@@ -10,3 +10,8 @@ De acordo com o ![[Guia-PMBOK-7a-Edicao.pdf]], um **projeto** é um esforço 
 > cada projeto, mesmo que semelhante a outros já realizados, apresentará características próprias quanto ao contexto, aos requisitos e às partes interessadas envolvidas.
 
 
+#  **projeto** X **operação** **contínua**
+>projeto é temporário e direcionado a uma entrega específica
+
+> operações contínuas consistem em atividades repetitivas e permanentes, voltadas à manutenção de serviços já existentes
+
