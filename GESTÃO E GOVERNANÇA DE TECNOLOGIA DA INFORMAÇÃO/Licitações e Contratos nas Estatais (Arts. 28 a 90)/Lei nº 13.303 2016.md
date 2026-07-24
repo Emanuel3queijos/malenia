@@ -41,23 +41,13 @@ Na rotina de uma estatal, a Lei das Estatais muda completamente o jeito de compr
 - Antes, isso gerava anos de brigas na Justiça. Hoje, o contrato obriga a estatal a criar uma **Matriz de Riscos**: um documento que diz antecipadamente _"Se o dólar subir X%, a responsabilidade é da empresa; se subir mais que X%, a estatal cobre a diferença"_. Isso dá previsibilidade ao contrato.
     
 
-## 3. Resumo da Ópera: Setor Público Clássico vs. Estatal na Prática
+# Resumo da Ópera: Setor Público Clássico vs. Estatal na Prática
 
-|**Situação**|**Órgão Comum (Ex: Ministério da Saúde)**|**Estatal (Ex: Dataprev / Petrobras)**|
-|---|---|---|
-|**Regra Geral**|Lei nº 14.133/2021|**Lei nº 13.303/2016 (Estatuto)**|
-|**Comprar insumo para revender/operar**|Não se aplica (não tem fim comercial)|**Sem licitação** (Atividade-fim)|
-|**Regulamento de Compras**|Aplica a lei federal diretamente|Cria seu próprio **RILC** (Regulamento Interno)|
-|**Foco Principal**|Legalidade estrita e controle prévio|**Resultado de mercado**, eficiência e governança|
-|**Punição a fornecedor ruim**|Impede de contratar com a Administração do ente|Impede de contratar **apenas com aquela estatal** (até 2 anos)|
 
-### Por que a FGV ama cobrar isso?
-
-Porque na teoria tudo parece um processo licitatório comum, mas na prática as **exceções mercadológicas** (como a não incidência na atividade-fim e a negociação) mudam o resultado da questão. A banca adora testar se você está pensando como um gestor de empresa ou como um burocrata.
 
 ---
 
-## Campo de Aplicação e Regras Gerais (Arts. 28 a 30)
+# Campo de Aplicação e Regras Gerais (Arts. 28 a 30)
 
 > [!info] Onde se aplica?
 > Aplica-se a toda **Empresa Pública (EP)**, **Sociedade de Economia Mista (SEM)** e suas **subsidiárias** da União, Estados, DF e Municípios que explorem atividade econômica ou prestem serviços públicos.
@@ -72,7 +62,7 @@ A licitação é **DISPENSADA/NÃO EXIGIDA** (hipótese de não incidência do d
 
 ---
 
-## 2. Hipóteses de Contratação Direta (Arts. 29 e 30)
+# Hipóteses de Contratação Direta (Arts. 29 e 30)
 
 A Lei 13.303/2016 divide a contratação direta entre **Dispensa** (rol taxativo) e **Inexigibilidade** (rol exemplificativo).
 
@@ -171,6 +161,71 @@ Sanções aplicáveis ao licitante/contratado faltoso:
 | **Dispensa Outros**       | Até R$ 50.000,00                                   | Até R$ 50.000,00 (reajustado anualmente)                        |
 | **Atividade-Fim**         | Não sujeita à licitação (Art. 28, § 3º)            | Não possui esta figura (Admin. Direta não tem fim mercantil)    |
 | **Abrangência da Sanção** | Apenas no âmbito da **própria estatal**            | Toda a Administração Pública do Ente ou Nacional                |
+
+---
+## Como a Lei 13.303 se conecta à Governança de TI
+
+```
+┌──────────────────────────────────────┐       ┌──────────────────────────────────────┐
+│       PILAR DE GOVERNANÇA DE TI      │       │     DISPOSITIVO DA LEI 13.303/2016   │
+├──────────────────────────────────────┤       ├──────────────────────────────────────┤
+│ 1. Alinhamento Estratégico & Agilidade│ ◄───► │ Inversão de Fases / Art. 28, § 3º    │
+│ 2. Gestão de Riscos de TI            │ ◄───► │ Matriz de Riscos / Atestados Técnicos│
+│ 3. Gestão de Fornecedores & SLAs     │ ◄───► │ Avaliação de Desempenho (Art. 67)    │
+│ 4. Compliance e Auditabilidade       │ ◄───► │ Regras de Contratação Direta         │
+└──────────────────────────────────────┘       └──────────────────────────────────────┘
+```
+
+### 1. Alinhamento Estratégico e Entrega de Valor
+
+- **O conceito de Governança:** A TI não pode ser um "gargalo" burocrático. Se o Governo precisa lançar uma nova funcionalidade no aplicativo da Previdência ou integrar dados de assistência social, a TI da Dataprev precisa entregar a solução rapidamente.
+    
+- **Onde entra a Lei 13.303:**
+    
+    - **Inversão de Fases (Art. 51):** Permite contratar infraestrutura de _cloud_ ou licenças de software em semanas, e não em meses.
+        
+    - **Exceção de Atividade-Fim (Art. 28, § 3º):** Se a Dataprev precisar fechar uma parceria tecnológica para desenvolver uma nova solução de inteligência artificial com uma empresa privada, ela tem permissão legal para agir na velocidade do mercado, sem o trâmite de uma licitação tradicional engessada.
+        
+
+### 2. Gestão de Riscos de TI (_Risk Management_)
+
+- **O conceito de Governança:** O maior risco em TI pública não é apenas gastar dinheiro, é **o sistema cair ou o projeto falhar**. Se o sistema da Dataprev fica fora do ar, milhões de cidadãos deixam de receber benefícios.
+    
+- **Onde entra a Lei 13.303:**
+    
+    - **Matriz de Riscos (Art. 69, X):** Obriga o contrato a prever quem assume o prejuízo se um servidor pifar, se houver um ataque cibernético ou se o custo de licenças de software disparar.
+        
+    - **Atestados de Capacidade Técnica:** Impedem que uma "empresa de fachada" vença a licitação apenas oferecendo o preço mais baixo, garantindo que só fornecedores com histórico comprovado operem sistemas críticos.
+        
+
+### 3. Gestão de Desempenho e de Fornecedores (_Supplier Management_)
+
+- **O conceito de Governança:** Governança de TI exige acompanhamento contínuo de Acordos de Nível de Serviço (SLA - _Service Level Agreements_). Não basta contratar; é preciso medir se o fornecedor está entregando o serviço no tempo correto.
+    
+- **Onde entra a Lei 13.303:**
+    
+    - **Cadastro de Desempenho (Art. 67):** Transforma o cumprimento do SLA em nota oficial. Se a empresa contratada prestou um serviço de TI ruim, essa pontuação fica registrada no cadastro da estatal, impactando futuras contratações ou gerando sanções contratuais de forma objetiva.
+        
+
+### 4. Compliance, Auditabilidade e Transparência
+
+- **O conceito de Governança:** Garantir que as decisões de compra de tecnologia sejam rastreáveis e auditáveis por órgãos de controle (como o TCU e a CGU), evitando favorecimentos ou decisões arbitrárias dos gestores.
+    
+- **Onde entra a Lei 13.303:**
+    
+    - Define critérios estritos de **Inexigibilidade** (Art. 30) para compras de software proprietário, exigindo justificativa técnica e de preço documental para evitar o famoso _vendor lock-in_ (ficar "refém" de um único fornecedor sem respaldo legal).
+        
+
+## Como isso cai na Prova (Especialmente para Cargos de TI na Dataprev)
+
+A banca **FGV** costuma elaborar questões que mesclam conhecimentos de **Gestão/Governança de TI** com **Direito Administrativo**:
+
+> **Exemplo de abordagem em prova:**
+> 
+> A banca descreve um Diretor de TI da Dataprev que decidiu contratar uma empresa de consultoria em cibersegurança sem licitação, alegando "confiança pessoal" na equipe contratada.
+> 
+> - **Sob a ótica da Governança e da Lei 13.303:** A conduta é **ilegal**. A lei exige que a "confiança" seja pautada em critérios objetivos (Notória Especialização, Art. 30, II, com comprovação formal de singularidade e capacidade técnica), e não em critérios subjetivos ou relacionamentos pessoais.
+>
 
 ---
 
