@@ -20,3 +20,8 @@ De acordo com o Guia-PMBOK-7 um **projeto** é um esforço **temporário** e
 ##  Projeto, Programa e Portfólio
 
 >  um **projeto** é um esforço temporário que busca criar um resultado único, como um produto, serviço ou resultado específico. Sua principal característica é ter um início e um fim definidos, além de ser planejado e executado para atingir um objetivo claro
+
+
+> um **programa** é definido como um grupo de projetos, subprogramas ou atividades que estão interligados e são gerenciados de maneira coordenada para gerar benefícios que não seriam alcançados se fossem gerenciados de forma isolada
+
+>á o **portfólio** é um conjunto de projetos, programas e operações que são gerenciados em grupo para alcançar os objetivos estratégicos da organização
