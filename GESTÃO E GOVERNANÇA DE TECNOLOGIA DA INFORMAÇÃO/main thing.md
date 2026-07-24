@@ -18,11 +18,6 @@ Vale notar que **ITIL** e **COBIT** não são tecnicamente "BOKs" — são _fram
 
 O PMBOK é o guia de referência do PMI para gerenciamento de projetos. Ele passou por mudanças estruturais importantes ao longo das edições:
 
-**Até a 6ª edição (2017)** — modelo "processual" clássico:
-
-- 5 **Grupos de Processos**: Iniciação, Planejamento, Execução, Monitoramento e Controle, Encerramento.
-- 10 **Áreas de Conhecimento**: Integração, Escopo, Cronograma, Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições e Partes Interessadas.
-- Cada área tinha um conjunto fixo de processos, com entradas, ferramentas/técnicas e saídas (ITTOs).
 
 **A partir da 7ª edição (2021)** — mudança de paradigma, de "baseado em processos" para "baseado em princípios":
 
