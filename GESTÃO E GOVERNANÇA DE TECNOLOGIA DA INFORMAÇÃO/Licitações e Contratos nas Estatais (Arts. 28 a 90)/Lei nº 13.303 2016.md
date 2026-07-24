@@ -57,7 +57,7 @@ Porque na teoria tudo parece um processo licitatório comum, mas na prática as 
 
 ---
 
-## 1. Campo de Aplicação e Regras Gerais (Arts. 28 a 30)
+## Campo de Aplicação e Regras Gerais (Arts. 28 a 30)
 
 > [!info] Onde se aplica?
 > Aplica-se a toda **Empresa Pública (EP)**, **Sociedade de Economia Mista (SEM)** e suas **subsidiárias** da União, Estados, DF e Municípios que explorem atividade econômica ou prestem serviços públicos.
