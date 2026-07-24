@@ -11,10 +11,14 @@
             "id": "fb777028fbe3a2db",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO/main thing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "main thing"
             }
           }
         ]
@@ -176,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +196,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d7edf2c602d06f69",
+  "active": "fb777028fbe3a2db",
   "lastOpenFiles": [
+    "Pasted image 20260723231131.png",
+    "Documentos/edital dataprev 2026.pdf",
+    "GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO/main thing.md",
+    "GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
+    "Documentos/08_ATI - DESENVOLVIMENTO DE SOFTWARE.pdf",
     "especificas data/Untitled.md",
     "especificas data/video url.md",
     "LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS/LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS.md",
@@ -203,7 +213,6 @@
     "LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS/leis/Marco civil da internet(MCI).md",
     "LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS/leis/Lei Geral de Proteção de Dados(LGPD).md",
     "LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS/leis/Lei de Acesso à Informação (LAI).md",
-    "Documentos/edital dataprev 2026.pdf",
     "Lingua portuguesa/Morfologia/Substantivo.md",
     "Lingua portuguesa/Morfologia/morfologia.md",
     "LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS",
@@ -224,13 +233,10 @@
     "Lingua portuguesa/Fonética/Encontro Vocalico.md",
     "Lingua portuguesa/Fonética/Encontro consonantal.md",
     "Lingua portuguesa/Fonética/Digrafo.md",
-    "Lingua portuguesa/Fonética/fonema.md",
     "Lingua portuguesa/Fonética/fonetica mapa mental.canvas",
     "Lingua portuguesa/Fonética",
     "Documentos/edital_receita_federal_-_3a_retificacao.pdf",
     "Documentos/Não confirmado 595202.crdownload",
-    "Documentos/08_ATI - DESENVOLVIMENTO DE SOFTWARE.pdf",
-    "Raciocínio Lógico-Matemático",
-    "Lingua portuguesa"
+    "Raciocínio Lógico-Matemático"
   ]
 }
