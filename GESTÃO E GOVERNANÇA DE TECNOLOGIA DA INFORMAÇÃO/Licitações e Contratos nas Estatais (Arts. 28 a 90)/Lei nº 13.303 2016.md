@@ -13,28 +13,28 @@ A lei estabelece duas grandes diretrizes:
 
 Na rotina de uma estatal, a Lei das Estatais muda completamente o jeito de comprar, contratar e fechar parcerias. Veja como isso acontece na vida real:
 
-### A. A "Fila do Preço" vem Antes da "Fila dos Papéis" (Inversão de Fases)
+###  A "Fila do Preço" vem Antes da "Fila dos Papéis" (Inversão de Fases)
 
 - **Na prática comum do setor público clássico:** A prefeitura abre envelopes de habilitação de 20 empresas (certidões, balanços, comprovantes) e só depois olha quem cobrou mais barato. Isso leva meses.
     
 - **Na prática da Estatal (Lei 13.303):** Se a Dataprev precisa comprar 500 servidores, ela faz o leilão/pregão de preços primeiro. A empresa X deu o menor preço? A Dataprev **só analisa os papéis da empresa X**. Se estiver tudo certo, fecha o contrato. Ganha-se semanas ou meses de processo.
     
 
-### B. "Atividade-Fim" se negocia como no setor privado
+### "Atividade-Fim" se negocia como no setor privado
 
 - **Na prática:** Imagine que o Banco do Brasil quer lançar um aplicativo de investimentos em parceria com uma _fintech_, ou a Dataprev quer vender um sistema de inteligência de dados para um banco privado.
     
 - Se tivessem que fazer uma licitação demorada de 8 meses, o concorrente privado passaria na frente. A lei permite que a estatal feche o negócio ou a parceria **diretamente**, com justificativa técnica e de mercado (Art. 28, § 3º), sem precisar abrir edital de concorrência.
     
 
-### C. Negociação Direta de Preço pós-Disputa
+### Negociação Direta de Preço pós-Disputa
 
 - **Na prática:** A estatal roda a disputa de preços e a empresa vencedora ganha oferecendo R$ 1 milhão.
     
 - Pela Lei 13.303, o pregoeiro da estatal pode virar para o 1º colocado e dizer: _"Ótimo, você venceu. Mas meu orçamento estimado era R$ 900 mil. Vamos negociar para você chegar mais perto disso?"_. A lei autoriza e incentiva essa negociação direta para economizar dinheiro público.
     
 
-### D. A Regra do "Quem assume o risco?" (Matriz de Riscos)
+### A Regra do "Quem assume o risco?" (Matriz de Riscos)
 
 - **Na prática:** Em grandes obras ou serviços de tecnologia, imprevistos acontecem (ex: o preço do dólar dispara e dobra o custo das licenças de software).
     
@@ -42,10 +42,6 @@ Na rotina de uma estatal, a Lei das Estatais muda completamente o jeito de compr
     
 
 # Resumo da Ópera: Setor Público Clássico vs. Estatal na Prática
-
-
-
----
 
 # Campo de Aplicação e Regras Gerais (Arts. 28 a 30)
 
