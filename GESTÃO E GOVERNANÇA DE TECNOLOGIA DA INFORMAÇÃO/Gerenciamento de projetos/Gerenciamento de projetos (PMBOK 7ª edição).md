@@ -28,3 +28,7 @@ De acordo com o Guia-PMBOK-7 um **projeto** é um esforço **temporário** e
 
 PMBOK INTRODUZIU ESSA PORRA AQUI: 
 ## Sistema de Entrega de Valor
+> A Sétima Edição do PMBOK (2021) introduziu uma abordagem mais moderna à gestão de projetos ao enfatizar o conceito de **Sistema de Entrega de Valor**. Essa mudança reflete a necessidade crescente das organizações de garantir que os projetos não apenas entreguem produtos ou serviços, mas que também gerem valor real para o negócio e para as partes interessadas (Project Management Institute, 2021).
+
+## O que é um Sistema de Entrega de Valor?
+	
