@@ -1,9 +1,8 @@
 
 
-> [!abstract] Visão Geral para Concursos
+> [!abstract] Visão Geral 
 > A **Lei nº 13.303/2016** (Estatuto Jurídico das Empresas Públicas, Sociedades de Economia Mista e suas Subsidiárias) disciplina o regime licitatório e contratual do setor produtivo do Estado. 
 > 
-> A **FGV** cobra este tema com foco em **casos práticos ("estorinhas")**, testando a capacidade do candidato de diferenciar o regime das Estatais do regime da Administração Direta/Autárquica ([[2021]]), identificando exceções e pegadinhas operacionais.
 
 ---
 
