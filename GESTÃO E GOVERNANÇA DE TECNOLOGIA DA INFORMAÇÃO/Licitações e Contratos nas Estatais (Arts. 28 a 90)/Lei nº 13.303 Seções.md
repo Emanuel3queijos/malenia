@@ -4,7 +4,7 @@
 
 ## Artigo 28: A Regra Geral e as Exceções de Negócio
 
-### 📜 Resumo
+
 
 A regra geral é que **toda e qualquer contratação** (compras, obras, serviços, aluguel, venda de bens) feita por uma estatal deve passar por licitação pública.
 
@@ -91,3 +91,25 @@ Casos em que a contratação direta cumpre uma função social ou de cooperaçã
 - **Inclusão Social e Pesquisa (Incisos VII e IX):** Contratar instituições sem fins lucrativos focadas em pesquisa/ensino, associações de pessoas com deficiência (PCDs) ou entidades de ressocialização de presos.
     
 - **Sustentabilidade (Inciso XII):** Contratar cooperativas de catadores de materiais recicláveis de baixa renda para coleta seletiva nos prédios da empresa.
+## Artigo 30 (Inexigibilidade de Licitação)
+
+**O que é?** Acontece quando a **competição é IMPOSSÍVEL**. Diferente da dispensa (onde a disputa é possível, mas o governo escolhe não fazer), na inexigibilidade não há opção de licitar porque só existe um fornecedor ou um profissional único para a demanda.
+
+### Os 2 Casos Principais:
+
+1. **Fornecedor Exclusivo (Inciso I):** Aquisição de bens, equipamentos ou peças que só **uma** empresa ou representante comercial exclusivo fabrica ou vende no mercado.
+    
+2. **Notória Especialização (Inciso II):** Serviços técnicos altamente especializados (como pareceres jurídicos, auditorias financeiras, estudos complexos, treinamentos ou engenharia de supervisão) prestados por quem tem reputação e conhecimento indiscutíveis.
+    
+    > ⛔ **Proibição Expressa:** É **proibido** usar a inexigibilidade para contratar serviços de **publicidade e divulgação**.
+    
+
+### Conceito e Regras de Ouro (§§ 1º a 3º):
+
+- **O que define Notória Especialização? (§ 1º):** É quando o histórico, estudos, publicações e bagagem do profissional/empresa permitem concluir que o trabalho dele é **indiscutivelmente o mais adequado** para a necessidade da estatal.
+    
+- **Processo Obrigatório (§ 3º):** Mesmo sem licitação, a empresa é obrigada a montar um processo formal justificando a **razão da escolha** daquele fornecedor e a **compatibilidade do preço** com o mercado.
+    
+- **Responsabilidade Solidária por Superfaturamento (§ 2º):** Se os órgãos de controle pegarem preço abusivo ou superfaturamento, **o gestor que assinou a contratação e o fornecedor respondem juntos (solidariamente)** para devolver o dinheiro aos cofres públicos.
+
+
